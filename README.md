@@ -5,17 +5,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gokulsankar-21&label=Profile%20views&color=0e75b6&style=flat" alt="gokulsankar-21" /> </p>
 
+- 🤝 I’m looking for full-time **Mern Stack Developer Role**
+
 - 🌱 I’m currently learning **TypeScript, Web Socket**
 
-- 🤝 I’m looking for full-time **Mern Stack Developer**
+- 👨‍💻 All of my projects are available at [Portfolio](https://gokuldev.in)
 
-- 👨‍💻 All of my projects are available at [https://gokuldev.in](https://gokuldev.in)
+- 💬 Ask me about **Reactjs, Nodejs, Nextjs and JavaScript**
 
-- 💬 Ask me about **Reactjs, Nodejs, NextJs and JavaScipt**
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1BsUb5oljCpvnneedtSYY0nH2rOZ3pD-R/view?usp=drive_link)
 
 - 📫 How to reach me **gokulsankar2002t@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1BsUb5oljCpvnneedtSYY0nH2rOZ3pD-R/view?usp=drive_link](https://drive.google.com/file/d/1BsUb5oljCpvnneedtSYY0nH2rOZ3pD-R/view?usp=drive_link)
 
 - ⚡ Fun fact **I am super cool 😎**
 
