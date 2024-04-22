@@ -38,3 +38,5 @@
 
 <h3 align="left">My Streak:</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gokulsankar-21&" alt="gokulsankar-21" /></p>
+
+<h1 align="center">Thanks for visiting 🤗</h1>
