@@ -36,5 +36,8 @@
 <h3 align="left">My Github Stats:</h3>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gokulsankar-21&show_icons=true&locale=en" alt="gokulsankar-21" /></p>
 
+<h3 align="left" >My Contributions</h3>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
 <h3 align="left">My Streak:</h3>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gokulsankar-21&" alt="gokulsankar-21" /></p>
